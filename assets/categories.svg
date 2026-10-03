@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='700' viewBox='0 0 1200 700'>
+  <rect x='0' y='0' width='1200' height='700' fill='#FAF6EF'/>
+  <rect x='40' y='36' width='1120' height='64' rx='14' fill='#B23A2E'/>
+  <text x='600' y='77' font-size='26' font-weight='600' fill='#FFFFFF' text-anchor='middle' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>12 章节 · 262 个知识点</text>
+  <rect x='40' y='120' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='64' y='144' width='8' height='8' fill='#B23A2E'/>
+  <text x='64' y='186' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>20</text>
+  <text x='64' y='226' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>开篇与学习路线总览</text>
+  <rect x='325' y='120' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='349' y='144' width='8' height='8' fill='#B23A2E'/>
+  <text x='349' y='186' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>22</text>
+  <text x='349' y='226' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>前置知识-语言与复杂度</text>
+  <rect x='610' y='120' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='634' y='144' width='8' height='8' fill='#B23A2E'/>
+  <text x='634' y='186' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>24</text>
+  <text x='634' y='226' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>数据结构-基础容器</text>
+  <rect x='895' y='120' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='919' y='144' width='8' height='8' fill='#B23A2E'/>
+  <text x='919' y='186' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>24</text>
+  <text x='919' y='226' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>数据结构-树堆图</text>
+  <rect x='40' y='300' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='64' y='324' width='8' height='8' fill='#B23A2E'/>
+  <text x='64' y='366' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>20</text>
+  <text x='64' y='406' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>排序与搜索</text>
+  <rect x='325' y='300' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='349' y='324' width='8' height='8' fill='#B23A2E'/>
+  <text x='349' y='366' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>20</text>
+  <text x='349' y='406' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>动态规划与递归</text>
+  <rect x='610' y='300' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='634' y='324' width='8' height='8' fill='#B23A2E'/>
+  <text x='634' y='366' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>20</text>
+  <text x='634' y='406' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>系统设计入门</text>
+  <rect x='895' y='300' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='919' y='324' width='8' height='8' fill='#B23A2E'/>
+  <text x='919' y='366' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>18</text>
+  <text x='919' y='406' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>行为面试与求职</text>
+  <rect x='40' y='480' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='64' y='504' width='8' height='8' fill='#B23A2E'/>
+  <text x='64' y='546' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>22</text>
+  <text x='64' y='586' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>刷题策略与经典题单</text>
+  <rect x='325' y='480' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='349' y='504' width='8' height='8' fill='#B23A2E'/>
+  <text x='349' y='546' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>26</text>
+  <text x='349' y='586' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>每周刷题计划</text>
+  <rect x='610' y='480' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='634' y='504' width='8' height='8' fill='#B23A2E'/>
+  <text x='634' y='546' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>24</text>
+  <text x='634' y='586' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>推荐书籍</text>
+  <rect x='895' y='480' width='265' height='160' rx='14' fill='#FFFFFF' stroke='#E8E0D2' stroke-width='1'/>
+  <rect x='919' y='504' width='8' height='8' fill='#B23A2E'/>
+  <text x='919' y='546' font-size='30' font-weight='700' fill='#B23A2E' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>22</text>
+  <text x='919' y='586' font-size='16' fill='#1F1B16' font-family='system-ui, -apple-system, Segoe UI, Microsoft YaHei, sans-serif'>课程视频与中文资源</text>
+</svg>
